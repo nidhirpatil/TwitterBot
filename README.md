@@ -1,5 +1,5 @@
 # TwitterBot
-Simple implementation of setting up a bot on Twitter in Python
+Simple implementation of bot on Twitter (using Python)
 
 First, you need to create a developer account at www.developer.twitter.com
 Then, create your application and get the consumer key, conusmer secret key, access token and access token secret.
